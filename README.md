@@ -1,2 +1,2 @@
 # infinite_scroll
-Infinite Scrolling With React
+Infinite Scrolling w/ React
